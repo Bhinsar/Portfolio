@@ -43,7 +43,7 @@ function App() {
   return (
     <main
       ref={mainRef}
-      className="bg-gray-800 text-white relative min-h-screen w-screen overflow-x-hidden"
+      className="bg-gray-900 text-white relative min-h-screen w-screen overflow-x-hidden"
     >
       <Navbar />
       <Hero />
